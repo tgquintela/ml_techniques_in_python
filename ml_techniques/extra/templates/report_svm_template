@@ -1,0 +1,11 @@
+=========================
+learning_rate = {}
+regularization = {:.2f}
+batch_size = {}
+=========================
+time expended: {:.2f}s
+num. epochs: {}
+best epoch acc: {}
+accuracy train: {:.4f}
+accuracy test: {:.4f}
+=========================
